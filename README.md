@@ -188,6 +188,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get followers from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_followers_from_network.ipynb)
 * [Get guests from event](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_guests_from_event.ipynb)
 * [Get identity from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_identity_from_profile.ipynb)
+* [Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_info_from_company.ipynb)
 * [Get likes from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_likes_from_post.ipynb)
 * [Get messages from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_messages_from_profile.ipynb)
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
@@ -221,6 +222,9 @@ Here is a tutorial video to show you the way:<br><br>
 	### sea level
 	- [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/sea_level/Sea-level-indicator.ipynb)
 
+## NLP
+* [Naas nlp qna](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NLP/Naas_nlp_qna.ipynb)
+
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
 * [Assets demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Assets_demo.ipynb)
@@ -229,6 +233,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
+* [NLP Example](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Example.ipynb)
 * [Notifications demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notifications_demo.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [SecretKeys demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_SecretKeys_demo.ipynb)
